@@ -18,11 +18,11 @@ subtitle: मातृभाषाओं के लिए
 email: shubhamnov11sharma@gmail.com
 locale: hi-IN
 description: भारत की भाषाओं में हर तरह की पाठ्य सामग्री का संग्रह, एवं लेख इत्यादि
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 repository: bharatkibhasha/bharatkibhasha.github.io
+teaser: "/assets/images/indian_languages.jpg"
+logo: "/assets/images/masthead.jpg"
 
 # Build settings
 markdown: kramdown
@@ -60,29 +60,23 @@ plugins:
 author:
   name   : शुभम् शर्मा
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "मातृभाषावादी"
   links:
-    - label: "Website"
+    - label: "ब्लॉगर"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://bharatkibhasha.blogspot.com/"
+    - label: "फेसबुक"
+      icon: "fab fa-facebook-square"
+      url: "https://www.facebook.com/shubhamsharma0201"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "ब्लॉगर"
+      icon: "fas fa-fw fa-link"
+      url: "https://bharatkibhasha.blogspot.com/"
+    - label: "फेसबुक"
+      icon: "fab fa-facebook-square"
+      url: "https://www.facebook.com/shubhamsharma0201"
 
 defaults:
   # _posts
