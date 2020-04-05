@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "लेख"
     url: /posts/
-  - title: "Categories"
+  - title: "श्रेणियाँ"
     url: /categories/
-  - title: "Tags"
+  - title: "अंकितक"
     url: /tags/
-  - title: "About"
+  - title: "परिचय"
     url: /about/
