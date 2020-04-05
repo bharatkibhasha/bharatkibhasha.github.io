@@ -1,13 +1,26 @@
 ---
 title: "मातृभाषा और मिथ्याएँ : देश टूटेगा, उसकी अपनी भाषाओं से"
-date: 2019-04-18T15:34:30-04:00
+excerpt: अंग्रेज़ी भेड़चाल और सम्मोहन में मातृभाषाओं के संबंध में करे जाने वाले दुष्प्रचार और उसके प्रतिकार। श्रृंखला में दूसरा लेख।
+date: 2019-12-03T15:34:30-04:00
 header:
+  overlay_color: "#333"
   teaser: "/assets/images/ahsoka_thrawn.jpg"
-categories:
-  - blog
+categories: [blog, mothertongue-myths-bhaarat]
 tags:
-  - Jekyll
-  - update
+  - मातृभाषा
+  - भाषा
+  - राष्ट्रवाद
+  - संवाद
+  - प्रवास
+  - अलगाववाद
+  - भारत
+  - Mothertongue
+  - Language
+  - Nationalism
+  - Communication
+  - Migration
+  - Separatism
+  - Bhaarat
 ---
 
 ![enemies](/assets/images/ahsoka_thrawn.jpg)

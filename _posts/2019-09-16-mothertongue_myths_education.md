@@ -1,13 +1,18 @@
 ---
 title: "मातृभाषा और मिथ्याएं : अंग्रेज़ी के बिना अच्छी पढ़ाई?"
-date: 2019-04-18T15:34:30-04:00
+excerpt: अंग्रेज़ी भेड़चाल और सम्मोहन में मातृभाषाओं के संबंध में करे जाने वाले दुष्प्रचार और उसके प्रतिकार। श्रृंखला में पहला लेख।
+date: 2019-09-16T15:34:30-04:00
 header:
+  overlay_color: "#333"
   teaser: "/assets/images/science_college_mothertongue.png"
-categories:
-  - blog
+categories: [blog, mothertongue-myths-bhaarat]
 tags:
-  - Jekyll
-  - update
+  - मातृभाषा
+  - भाषा
+  - शिक्षा
+  - Mothertongue
+  - Language
+  - Education
 ---
 
 मातृभाषा में शिक्षा के खिलाफ कई बार एक मिथ्या सुनाई देती है, कि अंग्रेज़ी में पढ़ाई अच्छी होती है। 

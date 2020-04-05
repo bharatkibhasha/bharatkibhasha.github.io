@@ -1,16 +1,21 @@
 ---
 title: "नाम, पहचान एवं भाषा"
-date: 2019-04-18T15:34:30-04:00
+excerpt: अपना नाम सोचिए; मन में उसको लिखा हुआ देखिए। फिर ये देखिए कि किस भाषा में है। अगर अंग्रेज़ी में है तो ये लेख आपके लिए ही है।
+date: 2017-07-27T15:34:30-04:00
 header:
-  video:
-    id: v=0IyuK069I-w
-    provider: youtube
-  teaser: "/assets/images/lakshya_aur_prerna.jpg"
-categories:
-  - blog
+  overlay_color: "#333"
+categories: [blog,facebook]
 tags:
-  - Jekyll
-  - update
+  - भाषा
+  - पहचान
+  - नाम
+  - मातृभाषा
+  - भारत
+  - Language
+  - Identity
+  - Name
+  - Mothertongue
+  - Bhaarat
 ---
 
 फेसबुक से आहरित: [शुभम् शर्मा / Shubham Sharma?](https://www.facebook.com/shubhamsharma0201/posts/1969460016601261)
