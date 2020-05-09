@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: भारत की भाषा
-subtitle: मातृभाषाओं के लिए
+title: "|| माध्यम ||"
+subtitle: मातृभाषाओं की ओर
 email: shubhamnov11sharma@gmail.com
 locale: hi-IN
 description: भारत की भाषाओं में हर तरह की पाठ्य सामग्री का संग्रह, एवं लेख इत्यादि
@@ -22,7 +22,7 @@ minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "n
 search: true
 repository: bharatkibhasha/bharatkibhasha.github.io
 teaser: "/assets/images/indian_languages.jpg"
-logo: "/assets/images/masthead.jpg"
+logo: "/assets/images/indian_languages.jpg"
 og_image: /assets/images/indian_languages.jpg
 
 # Build settings
@@ -59,14 +59,23 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : शुभम् शर्मा
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "मातृभाषावादी"
+  name   : "भारती भाषा सेतु"
+  avatar : "/assets/images/masthead.jpg"
+  bio    : "निज भाषा उन्नति अहै, सब उन्नति को मूल"
   links:
-    - label: "ब्लॉगर"
+    - label: "हमारे बारे में"
+      icon: "fas fa-fw fa-link"
+      url: "https://bharatkibhasha.github.io/about/" 
+    - label: "निर्माता सदस्य"
+      icon: "fas fa-fw fa-link"
+      url: "https://bharatkibhasha.github.io/member"
+    - label: "सहयोग"
+      icon: "fas fa-fw fa-link"
+      url: "https://bharatkibhasha.github.io/contribute" 
+    - label: "ब्लॉगर पर देखें"
       icon: "fas fa-fw fa-link"
       url: "https://bharatkibhasha.blogspot.com/"
-    - label: "फेसबुक"
+    - label: "फेसबुक पर देखें"
       icon: "fab fa-facebook-square"
       url: "https://www.facebook.com/shubhamsharma0201"
 
@@ -78,7 +87,7 @@ footer:
     - label: "फेसबुक"
       icon: "fab fa-facebook-square"
       url: "https://www.facebook.com/shubhamsharma0201"
-
+ 
 defaults:
   # _posts
   - scope:
@@ -86,7 +95,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -97,7 +106,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid

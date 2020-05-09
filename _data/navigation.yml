@@ -1,9 +1,21 @@
 main:
+  - title: "पुस्तकालय"
+    url: /library/
+  - title: "भाषाविषयक संसाधन"
+    url: /resources/
   - title: "लेख"
     url: /posts/
-  - title: "श्रेणियाँ"
-    url: /categories/
-  - title: "अंकितक"
-    url: /tags/
-  - title: "परिचय"
+  - title: "सीखें भारत की भाषाएँ"
+    url: /learn_indian_languages/
+  - title: "लिप्यंतरण"
+    url: /transliteration/
+  - title: "भाषांतरण"
+    url: /translation/
+  - title: "हमारे बारे में"
     url: /about/
+  - title: "सहयोग"
+    url: /contribute/
+  - title: "सुझाव दें"
+    url: /suggest/
+  - title: ""
+    url: //
