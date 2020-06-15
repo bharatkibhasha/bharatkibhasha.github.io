@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "शुभम् शर्मा"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "अंग्रेज़ी हटाओ"
+  bio    : "Go Back Simon"
   links:
     - label: "भारती भाषा सेतु"
       icon: "fas fa-fw fa-link"
